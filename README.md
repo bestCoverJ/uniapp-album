@@ -16,7 +16,7 @@ A mini-program quick start project based on `vite` and `uniapp`, including [Vant
 
 5. 在微信开发者工具中，导入项目，导入的目录为你代码根目录中的 `./dist/dev/mp-weixin`
 
-
+---
 
 1. Clone the project: `git clone git@github.com:bestCoverJ/uniapp-fast.git`
 
