@@ -48,7 +48,7 @@ axios.interceptors.request.use(
     }
 
     const app = useAppStore()
-    const token = store.acces_token
+    const token = store.accesToken
     // 全局设定token，用于子应用接受token，防止页面初始进入后再进入其他模块获取不到token值导致页面查询失败
     // 设置登录和快速登录的接口地址
     const isLogin = config.url.indexOf("/Users/md5Login")

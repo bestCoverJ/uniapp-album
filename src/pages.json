@@ -5,6 +5,8 @@
       "path": "pages/index/index",
       "style": {
         "navigationBarTitleText": "uni-app"
+      },
+      "usingComponents": {
       }
     }
   ],
@@ -15,7 +17,8 @@
     "backgroundColor": "#F8F8F8",
     "usingComponents": {
       "van-tabbar": "/wxcomponents/@vant/weapp/tabbar/index",
-      "van-tabbar-item": "/wxcomponents/@vant/weapp/tabbar-item/index"
+      "van-tabbar-item": "/wxcomponents/@vant/weapp/tabbar-item/index",
+      "van-image": "/wxcomponents/@vant/weapp/image/index"
     }
   }
 }
